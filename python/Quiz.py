@@ -1,5 +1,5 @@
 import random
-
+# Quiz class module 
 class Quiz():
 
     def __init__ (self, questions):
