@@ -1,3 +1,5 @@
+# Question class 
+
 class Question():
 
     def __init__ (self, text, missing, label):
